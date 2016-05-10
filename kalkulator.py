@@ -5,4 +5,6 @@ def dodawanie():
 	
 def get_info():
 		print("to jest program kalkulator autor: roksana")
+		
+get_info()
 dodawanie()
